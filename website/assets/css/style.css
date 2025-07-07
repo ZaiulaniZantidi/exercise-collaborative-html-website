@@ -1,3 +1,18 @@
 body{
     background: #BDBDBD;
 }
+
+.text-center {
+    margin: 5%;
+}
+.text-center img {
+    float: right;
+    height:200px;
+    width:200px;
+    background-color: white;
+   border-radius: 50%!important;
+   margin-left: 4%;
+   margin-right: 8%;
+   margin-bottom: 100%;
+
+}
